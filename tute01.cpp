@@ -28,3 +28,9 @@ int main()
     printf("Length in inches is %f \n", inches);
     return 0;
 }  
+
+
+
+test case 01  -----     1   3.976    test01 passed
+test case 02  -----     0   0
+test case 03 -------    100  132.975 
